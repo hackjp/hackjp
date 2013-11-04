@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[hack-a-thon.jp]]></title>
+  <link href="http://hack-a-thon.github.com//atom.xml" rel="self"/>
+  <link href="http://hack-a-thon.github.com//"/>
+  <updated>2013-11-04T18:41:03+09:00</updated>
+  <id>http://hack-a-thon.github.com//</id>
+  <author>
+    <name><![CDATA[morizyun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
